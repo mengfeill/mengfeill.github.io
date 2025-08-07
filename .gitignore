@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.aux
+*.seq
+*.icloud
+source/*
+html/*
+.DS_Store
+config.dat
+*.db
